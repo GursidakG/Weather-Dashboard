@@ -42,9 +42,3 @@ This project uses [Open-Meteo](https://open-meteo.com/), which does not require 
 - Forecast: `https://api.open-meteo.com/v1/forecast`
 
 The forecast call returns current conditions, hourly temperatures, 5-day daily highs/lows, UV index, precipitation probability, humidity, pressure, visibility, wind, sunrise, and sunset.
-
-## Deployment
-
-1. Push the project to GitHub.
-2. Import the repo in Vercel.
-3. Deploy. No environment variables are required.
