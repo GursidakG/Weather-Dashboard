@@ -4,11 +4,11 @@ A polished React weather dashboard with live city search, current conditions, a 
 
 ## Live Demo
 
-Add your Vercel URL here after deployment.
+https://weather-dashboard-two-rho.vercel.app
 
 ## Screenshot
 
-Add a screenshot after running the app locally or deploying it.
+<img width="1223" height="659" alt="Screenshot 2026-05-01 at 2 12 02 AM" src="https://github.com/user-attachments/assets/9b02f5d4-e617-42a0-80a1-f127de15ff22" />
 
 ## Tech Stack
 
